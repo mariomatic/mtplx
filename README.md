@@ -1,4 +1,4 @@
 # mtplx
 metaplex js bindings
 
-just some files ripped from metaplex/js/packages/common
+just some files ripped from @Metaplex-foundation/metaplex/js/packages/common
